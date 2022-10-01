@@ -6,6 +6,7 @@ Here Load testing is performed using Random Data API where the expected load is 
 The excel can be accessed from :
   <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/150O5Cs6CfgbNlnWMmTT-drLT94bnUoEYWwvU4U01Rpk/edit?usp=sharing">Load test strategy</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1L_8SwNmvEPxN_Ih3kKJwneUCO0HqSgoje4N25ayoO2A/edit?usp=sharing">Stress test strategy</a></li>
   </ul>
   
 ## Overall TPS and BottleNeck Breakdown
