@@ -17,7 +17,7 @@ The excel can be accessed from :
 ## Individual Test Reports
  
 - 166 users for 60 Seconds
-![166-600](https://user-images.githubusercontent.com/10103397/193415818-5b86bc5f-43d3-4ec4-b4c2-6288fa6e59f7.png)
+![166 users for 60 seconds](https://user-images.githubusercontent.com/10103397/193416004-04351411-cbd6-4c07-8a68-be9259ac3518.png)
 
 - 833 users for 300 Seconds
 ![833 users for 300 seconds](https://user-images.githubusercontent.com/10103397/193415851-b8a162d8-5141-4cd8-841f-3c3f8ccf569b.png)
