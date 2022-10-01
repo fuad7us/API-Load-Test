@@ -8,10 +8,11 @@ The excel can be accessed from :
   <li><a href="https://docs.google.com/spreadsheets/d/150O5Cs6CfgbNlnWMmTT-drLT94bnUoEYWwvU4U01Rpk/edit?usp=sharing">Load test strategy</a></li>
   </ul>
   
-## Overall TPS and test breakdown
+## Overall TPS and BottleNeck Breakdown
 
 ![TPS-breakdown](https://user-images.githubusercontent.com/10103397/193415412-d9a71ff6-5cc5-4e31-bb97-180eff8cee5c.jpg)
 
+![bottleneck-breakdown](https://user-images.githubusercontent.com/10103397/193420037-7c91deb7-e3f6-4c4e-8498-e603235bb567.jpg)
 
  
 ## Individual Test Reports
